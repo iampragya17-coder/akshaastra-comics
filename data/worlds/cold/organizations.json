@@ -1,0 +1,38 @@
+[
+  {
+    "n": "Sthiti Nexus",
+    "s": "SUPPRESSION MEGACORP",
+    "d": "Publicly a wellness institution; actually a machine for permanent emotional stasis. Runs the stilling clinics.",
+    "slug": "sthiti-nexus",
+    "imageKey": "corp-sthiti-nexus",
+    "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/02178491280516039debe34dc0faea573b1e9db2da7e27b1a68f8_0_1784912822081_ca8fa63a.jpeg",
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/02178491280516039debe34dc0faea573b1e9db2da7e27b1a68f8_0_1784912830626_8d94fae2.webp"
+  },
+  {
+    "n": "The Nishchal Order",
+    "s": "MONASTIC WING",
+    "d": "The theology that lets ordinary people participate in stilling and call it mercy.",
+    "slug": "nishchal-order",
+    "imageKey": "corp-nishchal-order",
+    "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021784912841973337dd80e214c02e2e5c4590cd6b9313c499a52_0_1784912852688_9585c7f4.jpeg",
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021784912841973337dd80e214c02e2e5c4590cd6b9313c499a52_0_1784912856064_de6da6c4.webp"
+  },
+  {
+    "n": "Kaalagnikin Systems",
+    "s": "TIME / LOGISTICS",
+    "d": "Runs Kaalnex’s time-control, the airgrid, and the alignment-window scheduling.",
+    "slug": "kaalagnikin-systems",
+    "imageKey": "corp-kaalagnikin-systems",
+    "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/02178491287957069d9f56ebaf8adc0cbe3483f4c0cffb8482457_0_1784912898828_e0269500.jpeg",
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/02178491287957069d9f56ebaf8adc0cbe3483f4c0cffb8482457_0_1784912902596_4577e4c3.webp"
+  },
+  {
+    "n": "HalaDyne",
+    "s": "BIOWEAPONS",
+    "d": "Where Sthiti Nexus stills the mind, HalaDyne poisons the body. Manufactures the disease to sell the cure.",
+    "slug": "haladyne",
+    "imageKey": "corp-haladyne",
+    "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/02178491292564469d9f56ebaf8adc0cbe3483f4c0cffb87deb49_0_1784912934064_879f1af0.jpeg",
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/02178491292564469d9f56ebaf8adc0cbe3483f4c0cffb87deb49_0_1784912941850_608aaa87.webp"
+  }
+]

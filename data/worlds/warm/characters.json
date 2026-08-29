@@ -1,0 +1,185 @@
+[
+  {
+    "n": "RUDRAKSHI",
+    "r": "FOUNDER · AKSHA ACADEMY",
+    "d": "Boarding a train at Neelavalley, the weight of trauma around broke her completely — she collapsed, and didn’t move for hours. What came after wasn’t recovery. It was a calling: visions, symbols, a framework older than her understanding of herself, surfacing not as myth but as mechanism.",
+    "kit": "TRISHULA · TRIKALA DRISHTI · RUDRAKSHA MALA · DAMRU",
+    "slug": "rudrakshi",
+    "role": "principal",
+    "style": "",
+    "root": "",
+    "imageKey": "char-rudrakshi",
+    "imageUrl": "https://cdn.openart.ai/openart-uploads/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/openart-image_8fvgWpW0_1775560110573_raw_1785074028818_f34e2be1.png",
+    "thumbUrl": "https://cdn.openart.ai/openart-uploads/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/openart-image_8fvgWpW0_1775560110573_raw_1785074028818_f34e2be1.png"
+  },
+  {
+    "n": "Viravane",
+    "r": "FIELD-GUARDIAN",
+    "d": "A soldier un-made from his wrath and rebuilt around compassion. Living proof of the framework’s promise.",
+    "kit": "A reclaimed Trishulvane trident-tool; close-guard combat; the ability to physically hold a space stable while Rudrakshi runs a scan inside it.",
+    "slug": "viravane",
+    "role": "cast",
+    "style": "",
+    "root": "",
+    "imageKey": "char-viravane",
+    "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021784722214630d4c69f90bdf814940b1abafd46c62ec6b08581_0_1784722229264_f0a1b6aa.jpeg",
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021784722214630d4c69f90bdf814940b1abafd46c62ec6b08581_0_1784722232910_34d960bf.webp",
+    "reveals": {
+      "powers": {
+        "video": "https://res.cloudinary.com/ehkpyykm/video/upload/v1787990608/akshaastra/character-reveals/reveal-viravane.mp4",
+        "status": "ready",
+        "lore": "He does not raise his weapon first. Once cold-world muscle, built to break rather than hold — Rudrakshi found him, beaded him, turned him. Now he plants Trishulvane into wet stone and holds an entire space steady while a healer works inside it. No wound opens twice on his watch."
+      },
+      "ordinaryLife": {
+        "video": null,
+        "status": "not-started",
+        "lore": "Off duty, that same restraint gets complicated. Worst person to bring on a grocery run — treats it like a perimeter sweep, insists on walking half a step ahead \"out of habit.\" Cannot dance, has never admitted this. Reorganizes other people's kitchens out of nervous energy and has never once successfully explained why."
+      }
+    }
+  },
+  {
+    "n": "Agnivaak",
+    "r": "THE VOICE",
+    "d": "Fire-speech. The warm world’s morale, news, and counter-propaganda all move on this frequency.",
+    "kit": "Damru-based sound-tech that carries ETH-attuned frequencies across a whole city; the ability to steady a crowd’s collective grief through sound alone.",
+    "slug": "agnivaak",
+    "role": "cast",
+    "style": "",
+    "root": "",
+    "imageKey": "char-agnivaak",
+    "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/0217847236065418792bd17575462d883d5a21b523815c5397383_0_1784723632866_357c801a.jpeg",
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/0217847236065418792bd17575462d883d5a21b523815c5397383_0_1784723636231_5312122c.webp",
+    "reveals": {
+      "powers": {
+        "video": "https://res.cloudinary.com/ehkpyykm/video/upload/v1787990634/akshaastra/character-reveals/reveal-agnivaak.mp4",
+        "status": "ready",
+        "lore": "Every city needs a voice it trusts. Neelavalley has Agnivaak. He broadcasts from the top of Trispire, where his ETH-etched damru carries further than any signal tower could manage alone — one strike, and the frequency moves through a thousand rooftops at once. Grief steadies. Fear settles. He is not a fighter. His weapon is presence."
+      },
+      "ordinaryLife": {
+        "video": null,
+        "status": "not-started",
+        "lore": "Chronically, almost heroically late to everything that isn't a scheduled transmission. Hums constantly, unconsciously — the rest of the cast can read his mood from the tune before he's said a word. Genuinely terrible at small talk one-on-one; all that easy charisma switches off the second the crowd disappears."
+      }
+    }
+  },
+  {
+    "n": "Tapashanth",
+    "r": "STILL ENGINEER",
+    "d": "Keeper of the oldest ETH cores. Reached total containment decades ago — and chose to maintain rather than heal.",
+    "kit": "Mastery of the Kailasa Samhita meditative operating system; hand-built ETH cores; the still-point discipline that lets a healer hold without leaking.",
+    "slug": "tapashanth",
+    "role": "cast",
+    "style": "",
+    "root": "",
+    "imageKey": "char-tapashanth",
+    "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021784734943887938a0312c1a8c2e332f47e263cd7c43e139bde_0_1784734952404_99df1938.jpeg",
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021784734943887938a0312c1a8c2e332f47e263cd7c43e139bde_0_1784734955839_dc6e204b.webp",
+    "reveals": {
+      "powers": { "video": null, "status": "not-started", "lore": "" },
+      "ordinaryLife": { "video": null, "status": "not-started", "lore": "" }
+    }
+  },
+  {
+    "n": "Chandrahollis",
+    "r": "DREAM-WALKER",
+    "d": "Reads what could be. Has seen your worst future before you’ve lived it — invaluable, and slightly feared.",
+    "kit": "Moon-attuned navigation through the Chandravault; the ability to walk a target’s possible futures before the scan begins; soma-linked dream-work.",
+    "slug": "chandrahollis",
+    "role": "cast",
+    "style": "",
+    "root": "",
+    "imageKey": "char-chandrahollis",
+    "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/02178480363150434cac430b5ac258905380d809540adb4dcea23_0_1784803640834_e489edfe.jpeg",
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/02178480363150434cac430b5ac258905380d809540adb4dcea23_0_1784803644058_35696e7a.webp",
+    "reveals": {
+      "powers": {
+        "video": "https://res.cloudinary.com/ehkpyykm/video/upload/v1787990645/akshaastra/character-reveals/reveal-chandrahollis.mp4",
+        "status": "ready",
+        "lore": "Not every healer reads what is. Some read what could be. Chandrahollis walks a target's possible futures before her scan even begins — moon-attuned, dream-linked, invaluable and slightly feared in equal measure. That kind of sight comes with a cost nobody talks about: she carries other people's worst futures without always being able to warn them."
+      },
+      "ordinaryLife": {
+        "video": null,
+        "status": "not-started",
+        "lore": "The Academy's dream-walker is a genuinely terrible sleeper — insomnia, most nights. Drifts mid-conversation, three futures deep into a boring meeting, and has gotten very good at nodding at exactly the right moment to cover for it. Never play cards with her."
+      }
+    }
+  },
+  {
+    "n": "Sharavinka",
+    "r": "THE PRODIGY",
+    "d": "The first fully Academy-raised pure soul. The gift without the wound; the sight without the scar.",
+    "kit": "Natural three-ring sight from childhood; the fastest scan in the Academy; untested containment — she has never yet had to hold real poison.",
+    "slug": "sharavinka",
+    "role": "cast",
+    "style": "",
+    "root": "",
+    "imageKey": "char-sharavinka",
+    "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/02178473604344599a3f43520201fc0164769d66e52699f6fa9a1_0_1784736052693_9e7a5b46.jpeg",
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/02178473604344599a3f43520201fc0164769d66e52699f6fa9a1_0_1784736056146_2a012aa9.webp",
+    "reveals": {
+      "powers": {
+        "video": "https://res.cloudinary.com/ehkpyykm/video/upload/v1787990660/akshaastra/character-reveals/reveal-sharavinka.mp4",
+        "status": "ready",
+        "lore": "She has the gift without the wound. Sharavinka is the Academy's first fully raised \"pure soul\" — the fastest scan in the Academy, full three-ring vision before she was old enough to fully understand what it meant. Here's the flaw: she's never had to hold real poison. Never been burned by what she contains."
+      },
+      "ordinaryLife": {
+        "video": null,
+        "status": "not-started",
+        "lore": "Has never once walked into a room without scanning it out of habit — including her own kitchen, including a mirror, for a full ten seconds. Startle her and the scan-rings flare on reflex, usually followed by knocking something over. The senior cast has started leaving breakable things out of arm's reach."
+      }
+    }
+  },
+  {
+    "n": "Ziaraka",
+    "r": "THE CROSSING",
+    "d": "No powers — languages, contacts, safe-routes, and trust on both sides of the seam.",
+    "kit": "No powers to speak of — pure human craft: languages, contacts, safe-routes, and the trust of people on both sides. Knows Antaryana better than anyone.",
+    "slug": "ziaraka",
+    "role": "cast",
+    "style": "",
+    "root": "",
+    "imageKey": "char-ziaraka",
+    "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/02178473619010295691c8304a8e23a54dc26928986fec325eab8_0_1784736199223_1929bd54.jpeg",
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/02178473619010295691c8304a8e23a54dc26928986fec325eab8_0_1784736201666_df58fcfe.webp",
+    "reveals": {
+      "powers": { "video": null, "status": "not-started", "lore": "" },
+      "ordinaryLife": { "video": null, "status": "not-started", "lore": "" }
+    }
+  },
+  {
+    "n": "TIKKAKNUCKLE",
+    "d": "Twitchy street runner; knows every warm back-lane and every debt owed on it.",
+    "kit": "Every warm-world back-lane committed to memory, and a running ledger of who owes what on each of them.",
+    "slug": "tikkaknuckle",
+    "role": "informant",
+    "style": "",
+    "root": "",
+    "imageKey": "char-tikkaknuckle",
+    "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021784792084446c44e9ddcb918cdd41b22b05ed1b7304a1ea303_0_1784792095551_4948d2f0.jpeg",
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021784792084446c44e9ddcb918cdd41b22b05ed1b7304a1ea303_0_1784792098672_c612e2d1.webp"
+  },
+  {
+    "n": "BHAVSTATIC",
+    "d": "Half-broken empath; reads the emotional static of a crowd. Useful and unstable.",
+    "kit": "Reads the emotional static of a crowd and calls a mood before it turns — unreliable at range, worse under pressure.",
+    "slug": "bhavstatic",
+    "role": "informant",
+    "style": "",
+    "root": "",
+    "imageKey": "char-bhavstatic",
+    "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021784792462803e142d87b6a9bdf1f5f94f64260ca2a937a9e32_0_1784792473074_b9bd3ed2.jpeg",
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021784792462803e142d87b6a9bdf1f5f94f64260ca2a937a9e32_0_1784792476802_8f227fb7.webp"
+  },
+  {
+    "n": "BHAIRAVILOOM",
+    "d": "Deals in the fiercer rumours — the ones that touch the border and Bhairava’s edge.",
+    "kit": "A rumour-network reaching the border and Bhairava’s edge; carries the fiercer intel nobody else will touch.",
+    "slug": "bhairaviloom",
+    "role": "informant",
+    "style": "",
+    "root": "",
+    "imageKey": "char-bhairaviloom",
+    "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/02178480581378336582de0ab192f8b1710090b8a2fff5c61afc7_0_1784805825689_2a3b23bd.jpeg",
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/02178480581378336582de0ab192f8b1710090b8a2fff5c61afc7_0_1784805831622_f7a0775b.webp"
+  }
+]

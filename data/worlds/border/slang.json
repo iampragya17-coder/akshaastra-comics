@@ -1,0 +1,27 @@
+[
+  {
+    "n": "CROSSING",
+    "d": "Going between worlds; also a person who does it for a living.",
+    "slug": "crossing"
+  },
+  {
+    "n": "GREY-PAID",
+    "d": "Paid in Somayana; a deal neither world will acknowledge.",
+    "slug": "grey-paid"
+  },
+  {
+    "n": "THROATED",
+    "d": "Carrying poison or data internally; holding something that should have killed you.",
+    "slug": "throated"
+  },
+  {
+    "n": "SPILLOVER",
+    "d": "The bleed of one world’s damage into the other; the event that broke Rahout.",
+    "slug": "spillover"
+  },
+  {
+    "n": "K-TIME",
+    "d": "Borrowed time; how long a burnout has before neural decay takes them.",
+    "slug": "k-time"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "n": "Kailasgard",
+    "d": "The keep — Nectmoheim is mounted here",
+    "slug": "kailasgard",
+    "imageKey": "loc-kailasgard",
+    "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/0217850794942004d21f3e3e165e25fcf12f86815b4407f65575d_0_1785079524139_02eceb0c.jpeg",
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/0217850794942004d21f3e3e165e25fcf12f86815b4407f65575d_0_1785079526926_cbcec0e7.webp",
+    "kind": "infrastructure"
+  },
+  {
+    "n": "Nadiyana Docks",
+    "d": "River-and-sea dockyard at Kanthreach",
+    "slug": "nadiyana-docks",
+    "imageKey": "loc-nadiyana-docks",
+    "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/02178507950432985f4608cdee6bbc8f8aaf952504d48fd9702c2_0_1785079524971_d04d1069.jpeg",
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/02178507950432985f4608cdee6bbc8f8aaf952504d48fd9702c2_0_1785079528979_54760c0b.webp",
+    "kind": "infrastructure"
+  },
+  {
+    "n": "Khagavane Skyport",
+    "d": "Skyport — that which moves through the sky",
+    "slug": "khagavane-skyport",
+    "imageKey": "loc-khagavane-skyport",
+    "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/02178507950962816e812ea4822a09eb3d0e01cc9319ecd2f74e4_0_1785079523967_e2dc6acf.jpeg",
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/02178507950962816e812ea4822a09eb3d0e01cc9319ecd2f74e4_0_1785079528419_6f9e7d73.webp",
+    "kind": "infrastructure"
+  },
+  {
+    "n": "Trispiria Central",
+    "d": "Central transit beneath the three spires",
+    "slug": "trispiria-central",
+    "imageKey": "loc-trispiria-central",
+    "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/0217850795218272ef693f353e4fada74e089bb6c7217044b9bf8_0_1785079530202_2efbc709.jpeg",
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/0217850795218272ef693f353e4fada74e089bb6c7217044b9bf8_0_1785079533571_2565270b.webp",
+    "kind": "infrastructure"
+  },
+  {
+    "n": "Nandi’s Path",
+    "d": "The primary sacred road",
+    "slug": "nandis-path",
+    "imageKey": "loc-nandis-path",
+    "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021785079529855b1e926b94f741badb049b6681cf829b87dda1d_0_1785079539074_28870322.jpeg",
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021785079529855b1e926b94f741badb049b6681cf829b87dda1d_0_1785079543106_e9c56f73.webp",
+    "kind": "transit"
+  },
+  {
+    "n": "Rudra’s Wingline",
+    "d": "Warm-world air line",
+    "slug": "rudras-wingline",
+    "imageKey": "loc-rudras-wingline",
+    "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/02178507953935185f4608cdee6bbc8f8aaf952504d48fd1814a5_0_1785079547093_90b35ebe.jpeg",
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/02178507953935185f4608cdee6bbc8f8aaf952504d48fd1814a5_0_1785079555782_4c3ff4ef.webp",
+    "kind": "transit"
+  },
+  {
+    "n": "Neelkanth Ferry-Flux",
+    "d": "Containment-coast ferry to the border",
+    "slug": "neelkanth-ferry-flux",
+    "imageKey": "loc-neelkanth-ferry-flux",
+    "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021785079548754b825dd5258dc4c388f66926d17e5fb9c87d24e_0_1785079556622_c4be3b69.jpeg",
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021785079548754b825dd5258dc4c388f66926d17e5fb9c87d24e_0_1785079562007_2d510e2f.webp",
+    "kind": "transit"
+  },
+  {
+    "n": "Garuda Rickshaws",
+    "d": "Street-level fast transport",
+    "slug": "garuda-rickshaws",
+    "imageKey": "loc-garuda-rickshaws",
+    "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/02178507955719445fbeaee288e5855715c9c7643a6f5a884674d_0_1785079578492_b19501db.jpeg",
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/02178507955719445fbeaee288e5855715c9c7643a6f5a884674d_0_1785079582408_9767f204.webp",
+    "kind": "transit"
+  },
+  {
+    "n": "Trikaal Cabs",
+    "d": "Metered cabs, priced in Trikaal",
+    "slug": "trikaal-cabs",
+    "imageKey": "loc-trikaal-cabs",
+    "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021785079566953a2f4933af3443b601e52f5659e0d958fcf9b49_0_1785079575780_c0b2fdc3.jpeg",
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021785079566953a2f4933af3443b601e52f5659e0d958fcf9b49_0_1785079579254_c83633b0.webp",
+    "kind": "transit"
+  },
+  {
+    "n": "Damruwick Depot",
+    "d": "Ground depot — drum-named",
+    "slug": "damruwick-depot",
+    "imageKey": "loc-damruwick-depot",
+    "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/02178507957486950b1c418616fd9b5f78a16c5c9d3416220c1f0_0_1785079583814_c4ad0f2b.jpeg",
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/02178507957486950b1c418616fd9b5f78a16c5c9d3416220c1f0_0_1785079591386_d9106745.webp",
+    "kind": "transit"
+  }
+]

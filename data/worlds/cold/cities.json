@@ -1,0 +1,62 @@
+[
+  {
+    "n": "Sthavantum",
+    "t": "CAPITAL",
+    "type": "Capital of stillness",
+    "d": "Seat of Sthiti Nexus. Perfectly maintained; nothing is allowed to change. The streets are clean because nothing lives on them.",
+    "slug": "sthavantum",
+    "imageKey": "city-sthavantum",
+    "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/02178470339418845fbeaee288e5855715c9c7643a6f5a896c35a_0_1784703412224_05109853.jpeg",
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/02178470339418845fbeaee288e5855715c9c7643a6f5a896c35a_0_1784703415604_062d69b4.webp"
+  },
+  {
+    "n": "Pralastrata",
+    "t": "ARCHIVE",
+    "type": "The layered strata",
+    "d": "Descending layers, each colder and more restricted. Where the cold world files what it wants dissolved.",
+    "slug": "pralastrata",
+    "imageKey": "city-pralastrata",
+    "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/0217847034257284ed9c025fac9e754f9bf2572506a1b8cbadd1a_0_1784703435101_4e849933.jpeg",
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/0217847034257284ed9c025fac9e754f9bf2572506a1b8cbadd1a_0_1784703439072_a4524e3f.webp"
+  },
+  {
+    "n": "Kaalnex",
+    "t": "CONTROL",
+    "type": "The clock-city",
+    "d": "Time managed like a utility. Being late is a citable offence. The transit spine of the entire cold world.",
+    "slug": "kaalnex",
+    "imageKey": "city-kaalnex",
+    "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/0217847034561296ac55f1ae722766e84a3a1d53b37ba2dd759f7_0_1784703466893_b3aa30cf.jpeg",
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/0217847034561296ac55f1ae722766e84a3a1d53b37ba2dd759f7_0_1784703470256_7857ff9d.webp"
+  },
+  {
+    "n": "Andhagrid",
+    "t": "CONTROL",
+    "type": "The blind grid",
+    "d": "Tamasa’s private district — sensors that see everything while showing nothing. Her origin is buried somewhere in it.",
+    "slug": "andhagrid",
+    "imageKey": "city-andhagrid",
+    "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/02178470348471845fbeaee288e5855715c9c7643a6f5a82eec9d_0_1784703501173_6506e841.jpeg",
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/02178470348471845fbeaee288e5855715c9c7643a6f5a82eec9d_0_1784703505029_3ad051ac.webp"
+  },
+  {
+    "n": "Bhairacrux",
+    "t": "ENFORCEMENT",
+    "type": "The fierce cross",
+    "d": "The cold world’s fist. The only cold city with heat in its palette — the ember-red of alarm, not warmth.",
+    "slug": "bhairacrux",
+    "imageKey": "city-bhairacrux",
+    "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021784703514520fdccfc102ca12157f94275e78054dc3bb78bb9_0_1784703524451_a2c0364a.jpeg",
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021784703514520fdccfc102ca12157f94275e78054dc3bb78bb9_0_1784703528324_13965ff2.webp"
+  },
+  {
+    "n": "Sahasragard",
+    "t": "ARCHIVE",
+    "type": "The thousand-keep",
+    "d": "A thousand vaults holding every stilled one, every case, every name. One vault, opened, exposes the Raktabija numbers.",
+    "slug": "sahasragard",
+    "imageKey": "city-sahasragard",
+    "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021784703540430e3e9275467fdb9818f9fefcdf3ebba71c6c150_0_1784703548831_103ee401.jpeg",
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021784703540430e3e9275467fdb9818f9fefcdf3ebba71c6c150_0_1784703552516_c4df0782.webp"
+  }
+]

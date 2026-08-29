@@ -1,0 +1,62 @@
+[
+  {
+    "n": "Neelavalley",
+    "t": "CAPITAL",
+    "type": "The blue-throated valley",
+    "d": "Seat of Aksha Academy. The valley floor glows a permanent Neelakantha blue — contained poison, held safely. Warm light pools in every doorway.",
+    "slug": "neelavalley",
+    "imageKey": "city-neelavalley",
+    "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021784998499335373615d827d98655cdf28f8c9eebc81751d666_0_1784998512723_333cd9e4.jpeg",
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021784998499335373615d827d98655cdf28f8c9eebc81751d666_0_1784998518367_e533bb24.webp"
+  },
+  {
+    "n": "Trispire",
+    "t": "INTERIOR",
+    "type": "Devotion & broadcast",
+    "d": "Three spires — past, present, future. Agnivaak broadcasts from the tallest; the whole warm world speaks from here.",
+    "slug": "trispire",
+    "imageKey": "city-trispire",
+    "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/0217847035731422e03d1d5cb4d12864ab68947fc6ea20737a1d9_0_1784703581927_b8673f48.jpeg",
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/0217847035731422e03d1d5cb4d12864ab68947fc6ea20737a1d9_0_1784703587456_1b37d601.webp"
+  },
+  {
+    "n": "Sandhivane",
+    "t": "BORDER-EDGE",
+    "type": "The place of meeting",
+    "d": "Junction-town where warm lanes braid before the border. Loosest rules, warmest bars. First contact usually happens here.",
+    "slug": "sandhivane",
+    "imageKey": "city-sandhivane",
+    "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021784703604987e9db803be2da2d1fb0370cddd09ba5d6e541d0_0_1784703613534_4f1f16ea.jpeg",
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021784703604987e9db803be2da2d1fb0370cddd09ba5d6e541d0_0_1784703622500_364c496f.webp"
+  },
+  {
+    "n": "Bhaswick",
+    "t": "INTERIOR",
+    "type": "Ash-town",
+    "d": "Built over old burn-grounds — foundries, forge-vendors, ash-shrines. Proud, scarred, and defensive of its stolen myth.",
+    "slug": "bhaswick",
+    "imageKey": "city-bhaswick",
+    "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021784998509155e40cd0a5f20110aac1f60c7d99b54634dec282_0_1784998537780_12122d74.jpeg",
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021784998509155e40cd0a5f20110aac1f60c7d99b54634dec282_0_1784998545990_f8ee6dc8.webp"
+  },
+  {
+    "n": "Kanthreach",
+    "t": "BORDER-EDGE",
+    "type": "The containment coast",
+    "d": "Where contained trauma is stored and studied. The deepest vaults, the most disciplined healers. If containment fails, it fails here first.",
+    "slug": "kanthreach",
+    "imageKey": "city-kanthreach",
+    "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/0217847036958497afbd658227445da69c5198dc2d1b708235de2_0_1784703713210_eb6bab20.jpeg",
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/0217847036958497afbd658227445da69c5198dc2d1b708235de2_0_1784703716725_6138f1b4.webp"
+  },
+  {
+    "n": "Vedavale",
+    "t": "INTERIOR",
+    "type": "The archive city",
+    "d": "Terraced libraries and mantra-archives. Whoever controls Vedavale controls the source-code.",
+    "slug": "vedavale",
+    "imageKey": "city-vedavale",
+    "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/02178470369519945fbeaee288e5855715c9c7643a6f5a861733c_0_1784703711276_6c04b2d1.jpeg",
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/02178470369519945fbeaee288e5855715c9c7643a6f5a861733c_0_1784703715094_1c8dacc1.webp"
+  }
+]

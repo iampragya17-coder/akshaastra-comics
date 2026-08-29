@@ -1,0 +1,62 @@
+[
+  {
+    "n": "Vaitarandor",
+    "t": "CROSSING",
+    "type": "The liminal crossing-city",
+    "d": "Named for the Vaitarani, the river the dead must cross. Both palettes bleed here and cancel into grey — every deal that can’t be made in either world is made here.",
+    "slug": "vaitarandor",
+    "imageKey": "city-vaitarandor",
+    "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/0217847164186757afbd658227445da69c5198dc2d1b708f47a8e_0_1784716427972_5eb45083.jpeg",
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/0217847164186757afbd658227445da69c5198dc2d1b708f47a8e_0_1784716431792_a7e4dffc.webp"
+  },
+  {
+    "n": "Marutgate",
+    "t": "CROSSING",
+    "type": "The wind-gate",
+    "d": "The primary controlled crossing-point. Fast, exposed, and watched by both sides.",
+    "slug": "marutgate",
+    "imageKey": "city-marutgate",
+    "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021784716428921c891133c7aa592195d19c3080f8a135d3f5955_0_1784716438043_22cf9b5a.jpeg",
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021784716428921c891133c7aa592195d19c3080f8a135d3f5955_0_1784716441651_283b249d.webp"
+  },
+  {
+    "n": "Dandakavak",
+    "t": "HIDDEN",
+    "type": "The exile wilderness",
+    "d": "A lawless border forest where people go to vanish. No signal reaches in; no protocol works cleanly.",
+    "slug": "dandakavak",
+    "imageKey": "city-dandakavak",
+    "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021784716605289b0b21285264a6e57d5de0f3c9dff48509b8cbb_0_1784716613335_d0d55286.jpeg",
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021784716605289b0b21285264a6e57d5de0f3c9dff48509b8cbb_0_1784716616551_fefc6199.webp"
+  },
+  {
+    "n": "Rudravantus",
+    "t": "CONTESTED",
+    "type": "The ruined keep",
+    "d": "Once a warm-world stronghold, now half-claimed by the cold. Its name still carries Rudra.",
+    "slug": "rudravantus",
+    "imageKey": "city-rudravantus",
+    "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021784716448696e142d87b6a9bdf1f5f94f64260ca2a931b1edd_0_1784716457919_65810e28.jpeg",
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021784716448696e142d87b6a9bdf1f5f94f64260ca2a931b1edd_0_1784716461906_ee85902d.webp"
+  },
+  {
+    "n": "Antaryana",
+    "t": "HIDDEN",
+    "type": "The inner passage",
+    "d": "The deep under-route beneath Vaitarandor — the underworld moves people the surface can’t.",
+    "slug": "antaryana",
+    "imageKey": "city-antaryana",
+    "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021784716459347c8c5a5589555159fe1f6a4222aeb4c2bc9e711_0_1784716468010_016250c5.jpeg",
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021784716459347c8c5a5589555159fe1f6a4222aeb4c2bc9e711_0_1784716476080_934e6d45.webp"
+  },
+  {
+    "n": "Mritkhross",
+    "t": "CROSSING",
+    "type": "The death-crossing",
+    "d": "A broken span over the deepest part of the seam. Where the Rudravos is said to have been forged.",
+    "slug": "mritkhross",
+    "imageKey": "city-mritkhross",
+    "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/0217847164677075482bcf7e80bfa8bf500513aca3a704d59373a_0_1784716476865_6a5e1e56.jpeg",
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/0217847164677075482bcf7e80bfa8bf500513aca3a704d59373a_0_1784716484315_ab2aa964.webp"
+  }
+]

@@ -1,0 +1,103 @@
+@import "tailwindcss";
+
+:root {
+  --background: #07070c;
+  --foreground: #e8e6df;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: #07070c;
+  color: #e8e6df;
+}
+
+body { font-family: var(--font-inter), Arial, Helvetica, sans-serif; }
+
+a { color: #19d3c5; text-decoration: none; }
+a:hover { color: #ffb347; }
+
+/* --- Ported keyframes from the legacy index.html <style> block --------- */
+@keyframes sigilPulse { 0%,100%{opacity:.75;filter:drop-shadow(0 0 10px rgba(25,211,197,.55));} 50%{opacity:1;filter:drop-shadow(0 0 30px rgba(25,211,197,.95));} }
+@keyframes mistDrift { 0%{transform:translateX(-6%) translateY(0);} 50%{transform:translateX(6%) translateY(-3%);} 100%{transform:translateX(-6%) translateY(0);} }
+@keyframes mistDrift2 { 0%{transform:translateX(5%) translateY(2%);} 50%{transform:translateX(-5%) translateY(-2%);} 100%{transform:translateX(5%) translateY(2%);} }
+@keyframes cueBob { 0%,100%{transform:translateY(0);opacity:.5;} 50%{transform:translateY(8px);opacity:1;} }
+@keyframes seamFlicker { 0%,100%{opacity:.5;} 42%{opacity:.9;} 44%{opacity:.3;} 46%{opacity:.85;} 70%{opacity:.6;} }
+@keyframes caret { 0%,49%{opacity:1;} 50%,100%{opacity:0;} }
+@keyframes glyphBreathe { 0%,100%{transform:scale(1);} 50%{transform:scale(1.06);} }
+@keyframes eyeBlink { 0%,80%,100%{transform:scaleY(1);} 86%{transform:scaleY(.05);} 90%{transform:scaleY(1);} 94%{transform:scaleY(.05);} 97%{transform:scaleY(1);} }
+@keyframes rayPulse { 0%,100%{opacity:.55;} 50%{opacity:1;} }
+@keyframes electricFlickerA { 0%,100%{opacity:1;filter:drop-shadow(0 0 8px #ffd23f);} 6%{opacity:.3;filter:none;} 9%{opacity:1;filter:drop-shadow(0 0 18px #ffd23f);} 52%{opacity:1;} 55%{opacity:.35;} 58%{opacity:1;} }
+@keyframes electricFlickerB { 0%,100%{opacity:.9;filter:drop-shadow(0 0 5px #b7bdc2);} 22%{opacity:.9;} 25%{opacity:.3;} 28%{opacity:1;filter:drop-shadow(0 0 12px #dfe2e4);} 70%{opacity:1;} 73%{opacity:.35;} 76%{opacity:.95;} }
+@keyframes electricFlickerC { 0%,100%{opacity:1;filter:drop-shadow(0 0 8px #5fc3ff);} 14%{opacity:1;} 38%{opacity:.3;} 41%{opacity:1;filter:drop-shadow(0 0 18px #5fc3ff);} 82%{opacity:.3;} 85%{opacity:1;} }
+@keyframes dripFall { 0%{transform:translateY(0);opacity:0;} 15%{opacity:1;} 90%{opacity:.8;} 100%{transform:translateY(16px);opacity:0;} }
+@keyframes rayDrip { 0%{transform:translateY(-45vh);opacity:0;} 12%{opacity:1;} 80%{opacity:.9;} 100%{transform:translateY(105vh);opacity:0;} }
+@keyframes iceGrow { 0%{transform:scaleY(.25);opacity:0;} 30%{opacity:1;} 100%{transform:scaleY(1);opacity:.95;} }
+@keyframes iceDropFall { 0%{transform:translateY(0);opacity:0;} 15%{opacity:1;} 100%{transform:translateY(78vh);opacity:0;} }
+@keyframes doorGlow { 0%,100%{box-shadow:0 0 18px 2px rgba(190,200,205,.25);} 50%{box-shadow:0 0 34px 6px rgba(190,200,205,.5);} }
+@keyframes moonFlicker { 0%,100%{opacity:0;} 20%{opacity:.7;} 24%{opacity:.15;} 30%{opacity:.85;} 60%{opacity:.6;} 80%{opacity:.3;} }
+@keyframes seamPulse { 0%,100%{opacity:.35;} 50%{opacity:1;} }
+@keyframes cardFloat { 0%,100%{transform:translateY(0);} 50%{transform:translateY(-6px);} }
+
+/* --- Per-world CSS custom properties (extracted from Component.DATA) --- */
+[data-world="warm"] {
+  --w-bg: linear-gradient(180deg,#160b06,#241007);
+  --w-accent: #ffb347;
+  --w-ink: #f4e8d4;
+  --w-sub: rgba(232,214,188,.7);
+  --w-border: rgba(255,179,71,.4);
+  --w-glow: rgba(255,78,46,.45);
+  --w-cardBg: rgba(30,14,6,.75);
+  --w-num: rgba(255,179,71,.12);
+  --w-title: #ff4e2e;
+}
+[data-world="cold"] {
+  --w-bg: linear-gradient(180deg,#08080f,#101433);
+  --w-accent: #9fd7ff;
+  --w-ink: #e2ecf6;
+  --w-sub: rgba(190,208,228,.65);
+  --w-border: rgba(159,215,255,.35);
+  --w-glow: rgba(159,215,255,.4);
+  --w-cardBg: rgba(8,10,24,.75);
+  --w-num: rgba(159,215,255,.1);
+  --w-title: #9fd7ff;
+}
+[data-world="border"] {
+  --w-bg: linear-gradient(180deg,#101214,#181b20);
+  --w-accent: #aeb6ba;
+  --w-ink: #dcdee0;
+  --w-sub: rgba(200,206,210,.6);
+  --w-border: rgba(174,182,186,.35);
+  --w-glow: rgba(174,182,186,.3);
+  --w-cardBg: rgba(20,22,26,.8);
+  --w-num: rgba(174,182,186,.1);
+  --w-title: #c9ced2;
+}
+
+.world-shell {
+  background: var(--w-bg);
+  color: var(--w-ink);
+  min-height: 100vh;
+}
+
+.world-card {
+  border: 2px solid var(--w-border);
+  background: var(--w-cardBg);
+  transition: transform .3s cubic-bezier(.2,1.4,.4,1), box-shadow .3s ease, border-color .3s ease;
+}
+.world-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 6px 6px 0 #000, 0 0 34px var(--w-glow);
+  border-color: var(--w-accent);
+}
+
+.cta-button {
+  font-family: var(--font-cinzel), serif;
+  letter-spacing: .3em;
+  border: 2px solid #000;
+  box-shadow: 5px 5px 0 #000;
+  transition: transform .25s cubic-bezier(.2,1.6,.4,1), box-shadow .25s ease;
+  display: inline-block;
+}
+.cta-button:hover { transform: translate(-2px,-2px); box-shadow: 8px 8px 0 #000; }
+.cta-button:active { transform: translate(2px,2px); box-shadow: 2px 2px 0 #000; }

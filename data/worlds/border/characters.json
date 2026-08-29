@@ -1,0 +1,28 @@
+[
+  {
+    "n": "Mohishift",
+    "r": "SOCIAL ENGINEER · SABOTEUR",
+    "d": "Born in the elite cloud-gardens of the upper city and bored of corporate life, she weaponised her privileges. She juices — masquerading as executives, security, or nightclub VIPs — luring high-value targets into false security before a clean data-wipe. To the street she is a ghost; to the corporations, an expensive nightmare.",
+    "style": "Sleek high-end corporate tailoring that transitions seamlessly into fluid mirrored streetwear; shifting geometric subdermal LED tattoos across the face.",
+    "kit": "Military-grade Mohini-Mesh skin camouflage; vocal-synthesiser implants; dual nano-monofilament whips concealed in the wrists — a high-tech nod to Vasuki.",
+    "root": "Mohini, the enchantress-form; Vasuki, the serpent of the churning.",
+    "slug": "mohishift",
+    "role": "cast",
+    "imageKey": "char-mohishift",
+    "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021784791194835fd3ae808d5ba084b55a7f9e1600032cdce46ef_0_1784791203541_a63a4d6f.jpeg",
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021784791194835fd3ae808d5ba084b55a7f9e1600032cdce46ef_0_1784791205678_3b5c6001.webp"
+  },
+  {
+    "n": "Rahout",
+    "r": "ENFORCER",
+    "d": "A tragic product of the Spillover. During a botched heist on an Amrit shipment he suffered a severe Rahu-Glitch — the corporate firewall severed half his digital consciousness, leaving his mind permanently fragmented. He survives on cheap toxic stimulants that push him into a violent Garala state in combat, and he knows he is running on K-Time.",
+    "style": "Gritty, scarred, heavily modified. Left arm entirely industrial cybernetics, unpainted, exposed hydraulic lines; a cracked neon-orange ballistic mask over the top half of the head.",
+    "kit": "Defective, unshielded muscle-booster rigs; a heavy Visha-Mod shock-fist that injects a hardware-bricking cyber-virus on impact; cybernetic eyes with threat-analysis HUDs.",
+    "root": "Rahu, the severed head that swallows light; the eclipse-demon of the churning.",
+    "slug": "rahout",
+    "role": "cast",
+    "imageKey": "char-rahout",
+    "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/0217850019729248eedaf36e20f5141b2bc84e877dea1f7eff798_0_1785001981903_cdbce6e0.jpeg",
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/0217850019729248eedaf36e20f5141b2bc84e877dea1f7eff798_0_1785001985585_b992ea26.webp"
+  }
+]

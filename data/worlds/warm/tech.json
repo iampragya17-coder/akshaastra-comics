@@ -1,0 +1,50 @@
+[
+  {
+    "n": "ETH SCANNER",
+    "d": "Reads a wound across the three times; drives the three-ring gauge. Every heal begins here.",
+    "slug": "eth-scanner",
+    "imageKey": "tech-eth-scanner",
+    "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021784961628826e3e9275467fdb9818f9fefcdf3ebba71e763f7_0_1784961676117_b2209a80.jpeg",
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021784961628826e3e9275467fdb9818f9fefcdf3ebba71e763f7_0_1784961682141_4c455be5.webp"
+  },
+  {
+    "n": "TEJOMAYA CIRCUIT",
+    "d": "The radiant circuitry inside the scanner — the glow that carries the scan.",
+    "slug": "tejomaya-circuit",
+    "imageKey": "tech-tejomaya-circuit",
+    "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021784961635686f419ea1e39f9dd10a4a699a297e9c9a1833778_0_1784961642487_a28d5b51.jpeg",
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021784961635686f419ea1e39f9dd10a4a699a297e9c9a1833778_0_1784961646161_b5a476e2.webp"
+  },
+  {
+    "n": "NECTMOHEIM",
+    "d": "Stronghold sonic defence — drum-pulse tech scaled up to shield Kailasgard.",
+    "slug": "nectmoheim",
+    "imageKey": "tech-nectmoheim",
+    "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/0217849616458064b0734cede0d35a658963f07bc220d4bc3f9e9_0_1784961653068_4709241d.jpeg",
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/0217849616458064b0734cede0d35a658963f07bc220d4bc3f9e9_0_1784961656666_8b429ad9.webp"
+  },
+  {
+    "n": "CHANDRAVAULT",
+    "d": "Moon-attuned data-and-dream vault near Kanthreach; where possible futures are navigated.",
+    "slug": "chandravault",
+    "imageKey": "tech-chandravault",
+    "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021784961664875c41b39946b92a3163d51611244fc4a0d2718c3_0_1784961672391_87c54412.jpeg",
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021784961664875c41b39946b92a3163d51611244fc4a0d2718c3_0_1784961677696_bf3a7011.webp"
+  },
+  {
+    "n": "PROJECT NECTSIPHON",
+    "d": "The most guarded programme: permanent containment without suppression — the true nectar.",
+    "slug": "project-nectsiphon",
+    "imageKey": "tech-project-nectsiphon",
+    "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021784961673498c0a335079e7be4c79ef57584e00819ba4309e0_0_1784961684966_bd9f3c4d.jpeg",
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021784961673498c0a335079e7be4c79ef57584e00819ba4309e0_0_1784961687176_43cc67d1.webp"
+  },
+  {
+    "n": "KSHEERDHARANE",
+    "d": "The milk-stream healing elixir. Restorative, never suppressive.",
+    "slug": "ksheerdharane",
+    "imageKey": "sub-ksheerdharane",
+    "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021784962851742641a02d40a43d449f07de84c480b390d6951cb_0_1784962863390_69f2b240.jpeg",
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021784962851742641a02d40a43d449f07de84c480b390d6951cb_0_1784962866665_05464f6a.webp"
+  }
+]

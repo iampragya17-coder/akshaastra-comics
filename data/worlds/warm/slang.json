@@ -1,0 +1,32 @@
+[
+  {
+    "n": "BEADED",
+    "d": "Healed or marked by her mala; touched by a completed release.",
+    "slug": "beaded"
+  },
+  {
+    "n": "PINGED",
+    "d": "Detected by the Damru signal; on a healer’s radar.",
+    "slug": "pinged"
+  },
+  {
+    "n": "RIPE",
+    "d": "Ready to release; a wound at Stage 6. “Let it go, it’s ripe.”",
+    "slug": "ripe"
+  },
+  {
+    "n": "THIRD-EYED",
+    "d": "Seen straight through — read past-present-future, wanted or not.",
+    "slug": "third-eyed"
+  },
+  {
+    "n": "BURNED CLEAN",
+    "d": "Passed Stage 4; the false story burned off. A compliment.",
+    "slug": "burned-clean"
+  },
+  {
+    "n": "DRISHTVANE",
+    "d": "Formal-register slang for someone newly awakened — sight just opened.",
+    "slug": "drishtvane"
+  }
+]

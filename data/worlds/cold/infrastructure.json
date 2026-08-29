@@ -1,0 +1,74 @@
+[
+  {
+    "n": "Pralagard",
+    "d": "The dissolution-city’s fortress keep",
+    "slug": "pralagard",
+    "imageKey": "loc-pralagard",
+    "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021785079582401a2f4933af3443b601e52f5659e0d958f6a2b74_0_1785079593639_9fb92b97.jpeg",
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021785079582401a2f4933af3443b601e52f5659e0d958f6a2b74_0_1785079597310_a9c2460a.webp",
+    "kind": "infrastructure"
+  },
+  {
+    "n": "Nishchalwick Kiosk",
+    "d": "The Order’s street touchpoint",
+    "slug": "nishchalwick-kiosk",
+    "imageKey": "loc-nishchalwick-kiosk",
+    "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021785079590624682bfa727eaa8ae907bb4f408e14b63df6ed69_0_1785079598264_408b465a.jpeg",
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021785079590624682bfa727eaa8ae907bb4f408e14b63df6ed69_0_1785079601364_bdbcef9d.webp",
+    "kind": "infrastructure"
+  },
+  {
+    "n": "Kaalnexium Airgrid",
+    "d": "The cold world’s air-traffic grid",
+    "slug": "kaalnexium-airgrid",
+    "imageKey": "loc-kaalnexium-airgrid",
+    "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/02178507959834599a3f43520201fc0164769d66e52699fddebbc_0_1785079612898_e0aa8beb.jpeg",
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/02178507959834599a3f43520201fc0164769d66e52699fddebbc_0_1785079615968_84408932.webp",
+    "kind": "infrastructure"
+  },
+  {
+    "n": "Sthavantum Shuttle",
+    "d": "The capital’s controlled shuttle service",
+    "slug": "sthavantum-shuttle",
+    "imageKey": "loc-sthavantum-shuttle",
+    "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021785079606038085ce2a5b85bafc715e5d42a46d04551c6ea09_0_1785079613368_b54d70d9.jpeg",
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021785079606038085ce2a5b85bafc715e5d42a46d04551c6ea09_0_1785079621117_109f9343.webp",
+    "kind": "transit"
+  },
+  {
+    "n": "Kaalstrata Transit",
+    "d": "The time-and-strata transit backbone",
+    "slug": "kaalstrata-transit",
+    "imageKey": "loc-kaalstrata-transit",
+    "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021785079614927fef143c4098cd8cc7e0dd8c08d18f9db4ce5ed_0_1785079622995_e2b12887.jpeg",
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021785079614927fef143c4098cd8cc7e0dd8c08d18f9db4ce5ed_0_1785079626404_a1b0d548.webp",
+    "kind": "transit"
+  },
+  {
+    "n": "Bhairanex Rails & Lift",
+    "d": "Enforcement rail and lift network",
+    "slug": "bhairanex-rails-lift",
+    "imageKey": "loc-bhairanex-rails-lift",
+    "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021785079623012f99996bc9b27db5cda0ac6dd5ae68edad3717d_0_1785079632031_64e3c078.jpeg",
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021785079623012f99996bc9b27db5cda0ac6dd5ae68edad3717d_0_1785079638043_5e59ae31.webp",
+    "kind": "transit"
+  },
+  {
+    "n": "Pralagard Wings",
+    "d": "The keep’s air wing",
+    "slug": "pralagard-wings",
+    "imageKey": "loc-pralagard-wings",
+    "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/0217850796298893a96cb89bb0639877068f7507e34a86a783a69_0_1785079638735_07675482.jpeg",
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/0217850796298893a96cb89bb0639877068f7507e34a86a783a69_0_1785079641849_c46a1ca5.webp",
+    "kind": "transit"
+  },
+  {
+    "n": "Bhasma Hollowport",
+    "d": "Ash-freight port — named for the burn-ground myth",
+    "slug": "bhasma-hollowport",
+    "imageKey": "loc-bhasma-hollowport",
+    "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/02178507964014528c256f90ee836450e608b7d1b1192f38fab80_0_1785079648221_860b1c52.jpeg",
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/02178507964014528c256f90ee836450e608b7d1b1192f38fab80_0_1785079651736_660c8293.webp",
+    "kind": "transit"
+  }
+]

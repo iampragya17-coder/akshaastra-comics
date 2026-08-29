@@ -1,0 +1,32 @@
+[
+  {
+    "n": "STILLED",
+    "d": "Frozen by the Sthiti Bandhan; locked shut instead of healed.",
+    "slug": "stilled"
+  },
+  {
+    "n": "STILLED ONES",
+    "d": "Clients of Sthiti Nexus — people who have been through the clinics.",
+    "slug": "stilled-ones"
+  },
+  {
+    "n": "KAALBOUND",
+    "d": "Trapped long-term in the cold system; on the clock forever.",
+    "slug": "kaalbound"
+  },
+  {
+    "n": "STRATALOCKED",
+    "d": "Filed so deep in Pralastrata it’s never meant to be revisited.",
+    "slug": "stratalocked"
+  },
+  {
+    "n": "FILED",
+    "d": "Erased into Sahasragard’s records; made to not-exist administratively.",
+    "slug": "filed"
+  },
+  {
+    "n": "ON THE BAND",
+    "d": "Under Trikaalvalex surveillance; watched across all three times.",
+    "slug": "on-the-band"
+  }
+]
