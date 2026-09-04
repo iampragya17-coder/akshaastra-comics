@@ -75,8 +75,16 @@
     "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021784734943887938a0312c1a8c2e332f47e263cd7c43e139bde_0_1784734952404_99df1938.jpeg",
     "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021784734943887938a0312c1a8c2e332f47e263cd7c43e139bde_0_1784734955839_dc6e204b.webp",
     "reveals": {
-      "powers": { "video": null, "status": "not-started", "lore": "" },
-      "ordinaryLife": { "video": null, "status": "not-started", "lore": "" }
+      "powers": {
+        "video": "https://res.cloudinary.com/ehkpyykm/video/upload/v1788452127/akshaastra/character-reveals/reveal-tapashanth.mp4",
+        "status": "ready",
+        "lore": "The elder ascetic-engineer who maintains the ETH core doesn't move to fix what's broken. He steadies his breath, and the framework steadies with him — no visible burst, no dramatic display. Just the quiet, absolute stillness of someone who stopped needing to perform urgency decades ago. This is what discipline looks like when it's finally finished proving itself."
+      },
+      "ordinaryLife": {
+        "video": null,
+        "status": "not-started",
+        "lore": "Spends more time than anyone will admit reorganizing the archive shelves by a system nobody else understands. Has strong, unspoken opinions about which oil-lantern wicks burn cleanest. Has been quietly awake before every single person in Vedavale for as long as anyone can remember — nobody's ever actually seen him sleep."
+      }
     }
   },
   {
@@ -142,8 +150,16 @@
     "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/02178473619010295691c8304a8e23a54dc26928986fec325eab8_0_1784736199223_1929bd54.jpeg",
     "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/02178473619010295691c8304a8e23a54dc26928986fec325eab8_0_1784736201666_df58fcfe.webp",
     "reveals": {
-      "powers": { "video": null, "status": "not-started", "lore": "" },
-      "ordinaryLife": { "video": null, "status": "not-started", "lore": "" }
+      "powers": {
+        "video": "https://res.cloudinary.com/ehkpyykm/video/upload/v1788452148/akshaastra/character-reveals/reveal-ziaraka.mp4",
+        "status": "ready",
+        "lore": "No glowing rings. No third eye. No circuit-lines. Ziaraka's only power is craft — languages, contacts, safe-routes, and trust earned on both sides of a border most people are too afraid to stand in. She's the one warm-world character genuinely comfortable in the seam between worlds, because she's spent years learning it isn't a line to fight over. It's just a place, if you know how to move through it."
+      },
+      "ordinaryLife": {
+        "video": null,
+        "status": "not-started",
+        "lore": "Owns exactly one bag and has never once misplaced anything in it, which the rest of the cast finds deeply unsettling. Can haggle in four languages and has strong opinions about which border-market stall oversells its spice-lanterns. Has slept in more borrowed beds than anyone in this universe and still somehow always knows exactly where she is."
+      }
     }
   },
   {
