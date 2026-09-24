@@ -10,7 +10,19 @@
     "root": "",
     "imageKey": "char-tamas-andhakara",
     "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021784785592278ceb2efb7fea58c55155fc9fb92515dcd28f0b2_0_1784785601001_9e80a5e9.jpeg",
-    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021784785592278ceb2efb7fea58c55155fc9fb92515dcd28f0b2_0_1784785604612_b1825d2e.webp"
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021784785592278ceb2efb7fea58c55155fc9fb92515dcd28f0b2_0_1784785604612_b1825d2e.webp",
+    "reveals": {
+      "powers": {
+        "video": "https://res.cloudinary.com/ehkpyykm/video/upload/v1790237362/akshaastra/character-reveals/reveal-tamasa.mp4",
+        "status": "ready",
+        "lore": "She was a healer first. That is the part Sthavantum never puts on a wall. She reached Stage 4, felt what the burn asks of you, and refused it — then built an entire civilisation so that no one would ever have to be asked again. Sthiti Bandhan holds a person exactly where they are. Nothing destroyed, nothing changed, nothing felt. She calls it mercy, and she has never once said the other word for it."
+      },
+      "ordinaryLife": {
+        "video": null,
+        "status": "not-started",
+        "lore": "This track has not been filmed yet."
+      }
+    }
   },
   {
     "n": "Meralaine",
@@ -23,7 +35,19 @@
     "role": "cast",
     "imageKey": "char-meralaine",
     "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/02178500298233435338acc098a5d522f02313a829aa57039e834_0_1785002989538_ff1748d3.jpeg",
-    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/02178500298233435338acc098a5d522f02313a829aa57039e834_0_1785002992693_b13683fa.webp"
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/02178500298233435338acc098a5d522f02313a829aa57039e834_0_1785002992693_b13683fa.webp",
+    "reveals": {
+      "powers": {
+        "video": "https://res.cloudinary.com/ehkpyykm/video/upload/v1790237542/akshaastra/character-reveals/reveal-meralaine.mp4",
+        "status": "ready",
+        "lore": "Tamasa built the empire from a flinch. Meralaine built his from conviction, which is worse. He runs the stilling clinics and believes every hour of it: that feeling is a wound, that ending it is kindness, that the settled face on the table is a person rescued. His voice is calibrated to be agreed with. He does not fight anyone. He settles them, goes home, and sleeps perfectly."
+      },
+      "ordinaryLife": {
+        "video": null,
+        "status": "not-started",
+        "lore": "This track has not been filmed yet."
+      }
+    }
   },
   {
     "n": "Devashaley",
@@ -36,7 +60,19 @@
     "role": "cast",
     "imageKey": "char-devashaley",
     "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/0217847892426274dfea62baf69d67974043520385d8b3c99587c_0_1784789251376_bbaa9106.jpeg",
-    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/0217847892426274dfea62baf69d67974043520385d8b3c99587c_0_1784789253808_95b26ebb.webp"
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/0217847892426274dfea62baf69d67974043520385d8b3c99587c_0_1784789253808_95b26ebb.webp",
+    "reveals": {
+      "powers": {
+        "video": "https://res.cloudinary.com/ehkpyykm/video/upload/v1790237343/akshaastra/character-reveals/reveal-devashaley.mp4",
+        "status": "ready",
+        "lore": "The hall of the god. Devashaley gives cruelty its liturgy — the rites, the invocation, the language that lets an ordinary person hold someone down and call it faith. The Order is his cathedral and the stilled ones are his congregation. He decides who is merely stilled and who is erased, and he has never experienced that decision as anything but holy."
+      },
+      "ordinaryLife": {
+        "video": null,
+        "status": "not-started",
+        "lore": "This track has not been filmed yet."
+      }
+    }
   },
   {
     "n": "Kavijyana",
@@ -49,7 +85,19 @@
     "role": "cast",
     "imageKey": "char-kavijyana",
     "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/0217848023707220d9bd7330cfa68208494cd13d7460bba13f9a7_0_1784802380295_6ed1f93c.jpeg",
-    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/0217848023707220d9bd7330cfa68208494cd13d7460bba13f9a7_0_1784802381956_a44ca95d.webp"
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/0217848023707220d9bd7330cfa68208494cd13d7460bba13f9a7_0_1784802381956_a44ca95d.webp",
+    "reveals": {
+      "powers": {
+        "video": "https://res.cloudinary.com/ehkpyykm/video/upload/v1790237525/akshaastra/character-reveals/reveal-kavijyana.mp4",
+        "status": "ready",
+        "lore": "He was a poet before the Order found a better use for him. Now he has the vaults of Sahasragard and the tooling to make a relapse-cascade vanish from every record before evening. Which means Kavijyana knows, more precisely than anyone alive, that the Raktabija Protocol proves the whole system is a lie — because he is the one who keeps deleting the proof. He still has the numbers. He has not decided what he is."
+      },
+      "ordinaryLife": {
+        "video": null,
+        "status": "not-started",
+        "lore": "This track has not been filmed yet."
+      }
+    }
   },
   {
     "n": "Anisraya",
@@ -62,7 +110,19 @@
     "role": "cast",
     "imageKey": "char-anisraya",
     "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/0217847897801189aa9d0b0344e85196ac345634277259c645507_0_1784789789500_ea1e0a35.jpeg",
-    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/0217847897801189aa9d0b0344e85196ac345634277259c645507_0_1784789796718_4b0cfd7a.webp"
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/0217847897801189aa9d0b0344e85196ac345634277259c645507_0_1784789796718_4b0cfd7a.webp",
+    "reveals": {
+      "powers": {
+        "video": "https://res.cloudinary.com/ehkpyykm/video/upload/v1790237497/akshaastra/character-reveals/reveal-anisraya.mp4",
+        "status": "ready",
+        "lore": "Without refuge. Made the way Virabhadra was made — spun out of one act of severed grief, handed a body, a purpose, and nowhere to return to. The severance-grade cyberware is only the delivery system; the strike-fist installs Sthiti Bandhan on contact and cages a field-guardian mid-motion. She obeys Bhairacrux completely. The question the story will not let go of: can a thing manufactured from someone else's wound be healed, or only released?"
+      },
+      "ordinaryLife": {
+        "video": null,
+        "status": "not-started",
+        "lore": "This track has not been filmed yet."
+      }
+    }
   },
   {
     "n": "Mehlowick",
@@ -75,7 +135,19 @@
     "role": "cast",
     "imageKey": "char-mehlowick",
     "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021784790229445c323afa74840446e61be924aaf3459eee945a2_0_1784790238938_2c319f6c.jpeg",
-    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021784790229445c323afa74840446e61be924aaf3459eee945a2_0_1784790242362_6488fab4.webp"
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/021784790229445c323afa74840446e61be924aaf3459eee945a2_0_1784790242362_6488fab4.webp",
+    "reveals": {
+      "powers": {
+        "video": "https://res.cloudinary.com/ehkpyykm/video/upload/v1790237509/akshaastra/character-reveals/reveal-mehlowick.mp4",
+        "status": "ready",
+        "lore": "A walking Raktabija Protocol. Stilled, relapsed, spawned, slipped the net — and then turned around and started moving the same sedative that broke him. He hates the Order with his whole chest and cannot eat without it. Black-market Vasvishantum, contacts down at Nishchalwick Kiosk, and the specific cunning of someone the system used up and spat out. Tamasa's civilisation manufactures its own black market. Mehlowick is the receipt."
+      },
+      "ordinaryLife": {
+        "video": null,
+        "status": "not-started",
+        "lore": "This track has not been filmed yet."
+      }
+    }
   },
   {
     "n": "Riyatrishane",
@@ -88,7 +160,19 @@
     "role": "cast",
     "imageKey": "char-riyatrishane",
     "imageUrl": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/02178480298554361de39c93fac111732577779cd317989f40a8d_0_1784802994529_08c119fb.jpeg",
-    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/02178480298554361de39c93fac111732577779cd317989f40a8d_0_1784802997703_633ef871.webp"
+    "thumbUrl": "https://cdn.openart.ai/openart/thumbnail/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/02178480298554361de39c93fac111732577779cd317989f40a8d_0_1784802997703_633ef871.webp",
+    "reveals": {
+      "powers": {
+        "video": "https://res.cloudinary.com/ehkpyykm/video/upload/v1790237483/akshaastra/character-reveals/reveal-riyatrishane.mp4",
+        "status": "ready",
+        "lore": "Trishna. Thirst. This is what the system produces when it stills a person halfway and then offers the sedative as the only way down: an operative whose loyalty is chemical. She knows the clinics from the inside, does the work the Order cannot be seen doing, and takes her payment in being stilled again. She is Tamasa's failure wearing a uniform — and if the warm world ever completed her interrupted heal, the Order's craving-engine would turn on it."
+      },
+      "ordinaryLife": {
+        "video": null,
+        "status": "not-started",
+        "lore": "This track has not been filmed yet."
+      }
+    }
   },
   {
     "n": "KAALWICK",

@@ -10,7 +10,19 @@
     "root": "",
     "imageKey": "char-rudrakshi",
     "imageUrl": "https://cdn.openart.ai/openart-uploads/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/openart-image_8fvgWpW0_1775560110573_raw_1785074028818_f34e2be1.png",
-    "thumbUrl": "https://cdn.openart.ai/openart-uploads/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/openart-image_8fvgWpW0_1775560110573_raw_1785074028818_f34e2be1.png"
+    "thumbUrl": "https://cdn.openart.ai/openart-uploads/production/2026-07/create-image/VGY3S0t4AmaGpYofBvBP/openart-image_8fvgWpW0_1775560110573_raw_1785074028818_f34e2be1.png",
+    "reveals": {
+      "powers": {
+        "video": "https://res.cloudinary.com/ehkpyykm/video/upload/v1790237470/akshaastra/character-reveals/reveal-rudrakshi.mp4",
+        "status": "ready",
+        "lore": "It did not begin as power. It began as collapse — a station floor at Neelavalley, hours she cannot account for, and a framework surfacing behind her eyes that was older than any word she had for it. She got up carrying Trishula, Trikala Drishti, the mala and the damru, and a method that works whether or not anyone believes her. She does not ask to be believed. She scans, and the room answers."
+      },
+      "ordinaryLife": {
+        "video": null,
+        "status": "not-started",
+        "lore": "This track has not been filmed yet."
+      }
+    }
   },
   {
     "n": "Viravane",
